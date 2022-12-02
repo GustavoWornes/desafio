@@ -2,17 +2,17 @@
 
 
 Web servico onde vai estar consultado o cep que foi colocado no input e salvando no banco e mostrando uma lista com os ceps salvos 
-Passos para executar o codigo ->
-php artisan migrate
-para estar criando o banco, sendo que foi usado MYSQL do xamp Estar executando o comando:
-->php artisan serve 
-O server estando rodando acessar a pagina http://127.0.0.1:8000/token 
-Copiando o token e colocando no codigo na linha 65.
-No arquivo welcome.blade.php
+Passos para executar o codigo -></br>
+php artisan migrate</br>
+para estar criando o banco, sendo que foi usado MYSQL do xamp Estar executando o comando:</br>
+->php artisan serve </br>
+O server estando rodando acessar a pagina http://127.0.0.1:8000/token </br>
+Copiando o token e colocando no codigo na linha 65.</br>
+No arquivo welcome.blade.php</br>
 
-Resources
-    Lviews
-        LWelcome.blade.php
+Resources</br>
+    Lviews</br>
+        LWelcome.blade.php</br>
 
 Salvando e podendo estar usando a aplicação no endereço http://127.0.0.1:8000/
 
